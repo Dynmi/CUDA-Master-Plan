@@ -14,7 +14,7 @@ This is an unofficial **Tutorial** for CUDA programming.
 
 I think the SOTA approach can be divided into three levels:
 - Level 1: You get to know what is cuda, and be able to use cuda in a **NAIVE** way to accelerate your computation.
-- Level 2: You are **PROFICIENT** to use all kind of techniques to optimize the naive cuda programming, such as shared memories, ILP.
+- Level 2: You are **PROFICIENT** to use all kinds of techniques to optimize the naive cuda programming, such as shared memories, ILP.
 - Level 3: You can **FLUENTLY** use cuda in your project to do whatever you want without restraint. For example, use cuda in a nerual network project.
 
 </br>
@@ -33,7 +33,7 @@ I think the SOTA approach can be divided into three levels:
 ├── LEVEL_3
 │   ├── ...
 ...
-
+└───
 ```
 
 </br>
