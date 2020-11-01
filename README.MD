@@ -24,8 +24,9 @@ I think the SOTA approach can be divided into three levels:
 ```
 .
 ├── LEVEL_1
-│   ├── matrix_multiply
-│   └── vector_add
+│   ├── vector add 
+│   └── matrix multiply
+│   └── matrix transpose
 ...
 ├── LEVEL_2
 │   ├── ...
