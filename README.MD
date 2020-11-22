@@ -24,7 +24,7 @@ I think the SOTA approach can be divided into three levels:
 - Level 2: You are **PROFICIENT** to use all kinds of techniques to optimize the naive cuda programming, such as shared memories, ILP.
 - Level 3: You can **FLUENTLY** use cuda in your project to do whatever you want without restraint. For example, use cuda in a nerual network project.
 
-Standing on the first level just needs several hours, and it's a piece of cake. 
+Standing on the first level needs several hours, which is just a piece of cake. 
 Then it will cost you about three days to join the community of those belonging to level 2. 
 There may be some of hardness to you, but don't be flinch. 
 After that, you should try to stand on level 3, which needs you to exercise your CUDA skill in practice.  
@@ -53,7 +53,9 @@ After that, you should try to stand on level 3, which needs you to exercise your
 
 ## Streaming Multiprocessor(SM),  Streaming Process(SP)
 
-...
+
+
+</br>
 
 ## Grid,  Block,  Thread,  Wrap
 
