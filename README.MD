@@ -51,6 +51,19 @@ After that, you should try to stand on stage 3, which needs you to exercise your
 
 </br>
 
+## Function Prefix: __global__, __host__, __device__
+
+The prefix tells the NVCC compiler where the function can be executed--- on CPU or GPU.
+
+
+- ```__host__```  &nbsp;&nbsp;&nbsp;&nbsp;   Only CPU is supported.
+
+- ```__device__``` &nbsp;   Only GPU is supported.  
+
+- ```__global__``` &nbsp;  ```__global__``` is equivalent to ```__host__ & __device__```. Both CPU and GPU is supported. 
+
+</br>
+
 ## Streaming Multiprocessor(SM),  Streaming Process(SP)
 
 SM is consist of 
